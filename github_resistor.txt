@@ -1,0 +1,5 @@
+git remote add origin https://github.com/NicolasRene321/resistor.git
+git branch -M main
+git push -u origin main
+
+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git 
